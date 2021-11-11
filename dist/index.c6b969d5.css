@@ -1,0 +1,2 @@
+body{margin:0;padding:0}#html{word-break:break-all}#html:after{animation:blink 1s linear infinite alternate;background:#000;content:"";display:inline-block;height:1rem;opacity:0;width:.1rem}#box{position:fixed;right:50%;top:0}#box:after,#box:before{border-radius:50%;content:"";display:block;position:absolute}@keyframes blink{50%{opacity:0}to{opacity:1}}@keyframes revolve{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}@media (max-width:500px){#html{overflow:auto}#box,#html{height:50vh}#box{position:relative;right:0;top:0}}
+/*# sourceMappingURL=index.c6b969d5.css.map */
